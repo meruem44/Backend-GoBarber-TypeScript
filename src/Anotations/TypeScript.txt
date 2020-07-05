@@ -1,0 +1,2 @@
+Decoration -> quando colocamos o decoration em cima da classe a gente indica
+que o nosso model será armazenado no banco
